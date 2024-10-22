@@ -8,14 +8,17 @@
     
 }
 
-.ln{
+
+
+
+.li a{
     color: white;
 }
-.ln:hover,.so:hover{
-    color: rgb(234,67,67);
-}
-.bo:hover{
+a:hover .bo{
     border-bottom: 2px solid rgb(234,67,67);
+}
+a:hover span{
+    color: rgb(234,67,67);
 }
 .hu{
     color: rgb(234,67,67);
@@ -28,6 +31,7 @@
 .j{
     border-bottom: 5px solid white;
 }
+
 .m{
     
         filter: drop-shadow(3px 3px 5px white) drop-shadow(-3px -3px 5px white);
@@ -174,4 +178,15 @@ height: 250px;
         left: -10px;
     }
     
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.j:hover a{
+    color: rgb(234,67,67);
+
+}
+.j:hover{
+    border-bottom: 5px solid rgb(234,67,67);
 }

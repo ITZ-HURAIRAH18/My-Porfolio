@@ -157,8 +157,21 @@ height: 250px;
                 left: 100px;
             }
             .jp{
-                width: 190px;
-                height: 180px;
+                width: 200px;
+                height: 200px;
 
             }
+           
+}
+@media screen and (min-width:300px) and (max-width:370px) 
+{
+    p,h1{
+        position: relative;
+        left: -15px;
+    }
+    #op{
+        position: relative;
+        left: -10px;
+    }
+    
 }

@@ -1,0 +1,48 @@
+/* @media screen and (max-width:760px){
+    .hg{
+        display: none;
+    }
+    .mf{
+        display: none;
+    }.mt{
+        display: none;
+  
+}
+
+} */
+.mf{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(234,67,67);
+    z-index: 2;
+    position: absolute;
+    left: px;
+}
+.hg{
+    z-index: 3;
+}
+.yy{
+    position: relative;
+}
+.mt{
+    width: 200px;
+    height: 200px;
+    border: 5px solid white;
+    z-index: 1;
+    position: absolute;
+    top: 250px;
+}
+.ji{
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+}
+.we{
+    color: rgb(50, 50, 50);
+    text-shadow: 5px 0 10px rgb(234, 67, 67), 0 5px 10px rgb(234, 67, 67), -5px 0 10px rgb(234, 67, 67), 0 -5px 10px rgb(234, 67, 67);
+    font-family: "Protest Guerrilla", sans-serif;
+
+}
+.lp{
+    font-family: "Protest Guerrilla", sans-serif;
+    color: rgb(154, 151, 161);
+}

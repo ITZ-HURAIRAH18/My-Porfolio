@@ -1,15 +1,9 @@
-/* @media screen and (max-width:760px){
-    .hg{
-        display: none;
-    }
-    .mf{
-        display: none;
-    }.mt{
-        display: none;
-  
-}
+ @media screen and (max-width:450px){
+  .yf{
+    margin-left: 30px;
+  }
 
-} */
+} 
 .mf{
     width: 150px;
     height: 150px;

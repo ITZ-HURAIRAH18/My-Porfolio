@@ -25,7 +25,22 @@ body{
     }
     
 }
-
+@media screen  and (min-width:400px){
+    .lz{
+        margin-top: 20px;
+    }
+    
+}
+@media screen and (max-width:400px){
+    .lz{
+        position: relative;
+        bottom: 10px;
+    }
+    .pz{
+        position: relative;
+        top: 20px;
+    }
+}
 
 .li a{
     color: white;
@@ -172,9 +187,9 @@ height: 250px;
                  height: 40px;
             }
             .pz{
-                width: 150px;
-                height: 150px;  
-                left: 100px;
+                width: 180px;
+                height: 200px;  
+                left: 80px;
             }
             .jp{
                 width: 300px;

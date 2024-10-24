@@ -1,3 +1,89 @@
+/* @media screen and (min-width:930px)and (min-width:1440px) {
+    #kp{
+        height: 800px;
+        background-color: rgb(51,50,50);
+    }
+    
+} */
+/* @media screen and (max-width:930px) {
+    #kp{
+        height: fit-content;
+    }
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+    @media screen  and (min-width:770px){
+        .ui{
+            margin-top: 150px;
+            margin-left: 100px;
+        }
+        .ua{
+            margin-left: 100px;
+        }
+        .ia{
+            margin-top: 220px; 
+            margin-left: 40px;
+        }
+        .ib{
+            margin-top: 220px;
+        }
+        .ic{
+            margin-top: 240px;
+            margin-left: 40px;
+        }
+        .ie{
+            margin-left: 40px; margin-top: 20px;
+        }
+        .if{
+            margin-top: 20px;
+        }
+        .ig{
+            margin-top: 30px;margin-left: 40px;
+        }
+    
+}
+@media screen  and (max-width:770px){
+    .hh{
+        height: 800px;
+        padding-top: 50px;
+    }
+    .ui,.uu{
+        text-align: center;
+    
+    }
+    .uz{
+        text-align: justify;
+        padding-left: 20px;
+    }
+    .iy{
+        margin-top: 10px;
+    }
+    .y6{
+        margin-top: 20px;
+    }
+    .y7{
+        margin-top: 30px;
+    }
+    .oo,.oc{
+        margin-top: 20px;
+    }
+    .oa{
+        margin-top: 30px;
+    }
+    
+}
+@media screen  and (max-width:450px){
+    .hh{
+        height: 920px;
+    }
+    
+}
 @media screen and (max-width:620px){
     #js{
         /* display: block;
@@ -5,6 +91,7 @@
         margin-left: 200px;
     }
 }
+
 
  @media screen  and (max-width:900px){
     .hf{
@@ -84,4 +171,22 @@
     position: absolute;
     right: 50px;
     top: 220px;
+}
+.jt{
+    font-family: "Protest Guerrilla", sans-serif;  
+    color: rgb(234, 67, 67);
+    text-shadow: 2px 0 white, 0 2px white, -2px 0 white, 0 -2px white;
+}
+.ja{
+    font-size: 30px;
+}
+.jb{
+    font-size: 40px;
+}
+.jc{
+    font-size: 30px;
+}
+.jd{
+    font-size: 18px;
+    line-height: 40px;
 }
